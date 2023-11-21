@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: rajnam
+Build-Jdk: 19.0.2
+Implementation-Title: spring-boot-sample-swagger2
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: sample.simple.swagger2
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-sa
+ mple-swagger2/
+Created-By: Maven Integration for Eclipse
+
